@@ -7,7 +7,7 @@ MRITYUNJAY AYURVEDA is a frontend showcase project inspired by India's tradition
 
 ## ✨ Live Preview
 
-🔗 **Live Website:** Add your deployed website URL here.
+🔗 **Live Website:** https://mrityunjayayurveda.netlify.app
 
 ## 📸 Website Preview
 
@@ -97,7 +97,7 @@ MRITYUNJAY-AYURVEDA/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/aashuyadavv/Mrityunjay-Ayurveda.git
 ```
 
 2. Open the project folder:
